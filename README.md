@@ -1,2 +1,41 @@
-# object-detection-assistive-system
-An AI-based object detection system using YOLOv8 to help visually impaired people navigate safely
+# 🦯 Object Detection Assistive System for Visually Impaired People
+
+This project aims to assist blind and visually impaired individuals in navigating their environment safely using real-time object detection and audio feedback.
+
+## 📌 Overview
+
+Developed as part of a university project by a team of five students, this system uses a camera to detect obstacles (such as people, vehicles, and stairs) and provides spoken alerts using text-to-speech technology. Our goal is to enhance independence and mobility for the visually impaired.
+
+## 👥 Team Members
+- Naima SAIDI  
+- [Teammate 1]  
+- [Teammate 2]  
+- [Teammate 3]  
+- [Teammate 4]  
+
+> Replace with their real names or GitHub profiles if you'd like to tag them.
+
+## ⚙️ Technologies Used
+- Python
+- [YOLOv8](https://github.com/ultralytics/ultralytics) (for object detection)
+- OpenCV (for image/video processing)
+- pyttsx3 or gTTS (for text-to-speech)
+- Real-time webcam input
+
+## 🧠 How It Works
+1. Captures live video from a webcam
+2. Runs YOLOv8 to detect objects in the frame
+3. Converts detected object labels into audio messages
+4. Plays audio to inform the user of nearby obstacles
+
+## 🖼️ System Illustration
+
+![System Diagram](./path-to-illustration.png)
+> Add your illustration image here or link to it directly.
+
+## 🧪 Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/object-detection-assistive-system.git
+   cd object-detection-assistive-system
