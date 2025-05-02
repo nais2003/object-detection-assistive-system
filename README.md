@@ -8,12 +8,10 @@ Developed as part of a university project by a team of five students, this syste
 
 ## 👥 Team Members
 - Naima SAIDI  
-- [Teammate 1]  
-- [Teammate 2]  
-- [Teammate 3]  
-- [Teammate 4]  
-
-> Replace with their real names or GitHub profiles if you'd like to tag them.
+- Hind Ait TEMGHART  
+- Salah Edine HAJJIOUI 
+- Ahmed Nour ELBOURKADI  
+  
 
 ## ⚙️ Technologies Used
 - Python
@@ -27,15 +25,3 @@ Developed as part of a university project by a team of five students, this syste
 2. Runs YOLOv8 to detect objects in the frame
 3. Converts detected object labels into audio messages
 4. Plays audio to inform the user of nearby obstacles
-
-## 🖼️ System Illustration
-
-![System Diagram](./path-to-illustration.png)
-> Add your illustration image here or link to it directly.
-
-## 🧪 Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/object-detection-assistive-system.git
-   cd object-detection-assistive-system
